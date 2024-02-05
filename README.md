@@ -1,2 +1,2 @@
-# GPD-Website
- college website
+## My college website 
+Government Polytechnic Dhule
